@@ -1,3 +1,8 @@
+// Board : STM32F401CCU6 Black Pill
+// Chip  : STM32F401CCU6
+// LCD   : ST7920 128x64 GLCD (Serial Mode)
+
+
 #include <Arduino.h>
 #define LED_PIN PA5
 #define GLCD_RS PB12
